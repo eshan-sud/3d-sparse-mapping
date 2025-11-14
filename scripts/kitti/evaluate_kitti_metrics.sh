@@ -104,7 +104,7 @@ for sequence in "${sequences[@]}"; do
         run_and_evaluate
       done
     done
-    sleep 160  # 2 mins in between each mode of execution
+    sleep 160  # 2 minutes 40 seconds cooldown
   done
 done
 
